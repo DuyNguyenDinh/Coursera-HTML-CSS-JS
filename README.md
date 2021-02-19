@@ -1,1 +1,1 @@
-# Coursera-Module-2-Coding-Assignement
+# Coursera-HTML CSS JS Course
