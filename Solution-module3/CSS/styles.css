@@ -1,1 +1,65 @@
+#header-nav {
+  padding: 5px 5px 0px 5px;
+  background-color: rgba(255,165,0,0.2);
+  border-radius: 0;
+  height: 100%;
+}
+.navbar-brand h1{
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  text-align: left;
+  margin: 0px;
+  float: left;
+}
 
+.navbar-header button.navbar-toggle {
+  border: 1px solid #61122f;
+}
+
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+	display: block;
+
+}
+
+.ul.il {
+	text-align: center;
+}
+
+div .container-fluid {
+	position: relative;
+}
+
+button {
+	position: absolute;
+	right: 0px;
+	margin-top: 15px;
+}
+
+div ul {
+	clear: both;
+	text-align: center;
+	background-color: grey;
+}
+div p {
+	height: 1000px;
+	margin: 20px;
+	background-color: rgba(255,0,0,0.2);
+}
+a {
+	text-decoration: none;
+}
+
+li:nth-child(1) {
+	margin-top: 30px;
+}
+
+div .navbar-brand{
+	margin:5px;
+
+}
+
+.nav {
+	margin: 0px;
+}
